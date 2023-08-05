@@ -2,6 +2,7 @@ package com.driver.model;
 
 import java.util.Date;
 
+
 public class Flight {
 
     private int flightId; //This is a unique key for a flight
